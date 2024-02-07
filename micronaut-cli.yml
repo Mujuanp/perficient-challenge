@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: com.perficient.challenge
+testFramework: junit
+sourceLanguage: java
+buildTool: gradle
+features: [ app-name, gradle, h2, http-client-test, java, java-application, junit, junit-platform-suite-engine, log4j2, lombok, micronaut-aot, micronaut-build, micronaut-http-validation, mockito, netty-server, openapi, properties, readme, serialization-jackson, shade, static-resources, swagger-ui ]
